@@ -1,0 +1,8 @@
+stacks-counter-dapp/
+├── contracts/
+│   └── counter.clar
+├── frontend/
+│   ├── index.html
+│   └── app.js
+├── package.json
+└── README.md
