@@ -29,3 +29,7 @@ frontend/
 2. Deploy contract to Stacks Testnet
 3. Open frontend/index.html
 4. Connect wallet and interact with the contract
+
+## Deployed Contract (Testnet)
+Contract: STGSD314CJWGNJ8ENZRKQTNFYDRHKBRF3S80BP0Q.counter
+Explorer: https://explorer.hiro.so/address/STGSD314CJWGNJ8ENZRKQTNFYDRHKBRF3S80BP0Q.counter?chain=testnet
